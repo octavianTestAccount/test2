@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+body{ font-family: 'Poppins', sans-serif;
+    background-color: #6573f0;
+}
+
+
+/* FIRST DIV CSS */
+
+
+.firstDiv {
+    text-align: center;
+    width: 1700px;
+    height: 500px;
+    background-image: url(pictures/rsbk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px;
+    border-color: black;
+    border-radius: .3%;
+    position: relative;
+
+    left: 97px;
+    padding-bottom: 100px;
+
+}
+
+#profilePick{
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
+}
+
+
+#downloadResumeButton  {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px ;
+    cursor: pointer;
+    font-size: 20px;
+  }
+
+  #downloadResumeButton:hover {
+    background-color: RoyalBlue;
+  }
+
+  #hireMeButton {   
+
+
+
+
+
+
+
+
+    border-width: 4px;
+    border-style: solid;
+    padding: 12px 30px ;
+    border-image: linear-gradient(to right top, #881994 , #0a0daa , #a96fd4 , #350479 , #80449c)1 ;
+
+      background-color: rgb(114, 37, 214);
+  }
+
+  border-style
+
+  #hireMeButton a:link{
+      color: palevioletred;
+  }
+
+
+  #hireMeRedirectLink {
+      text-decoration: none;
+      color: white;
+      font-size: 20px;
+  }
+
+
+  /* END OF FIRST DIV CSS */
+
+/* ______________________________inbetween line _______________________________________________________________________ */
+
+
+/* SECOND DIV CSS */
+
+
+
+
+/* FIRST SECTION CSS */
+
+
+  .sectionOnTheLeft  {
+      background-color: rgb(167, 39, 241);
+      width: 532px;
+      height: 700px;
+      padding-left: 5px;
+      position: relative;
+      left: 300px;
+  }
+
+  /* END OF FIRST SECTION CSS */
+
+
+   /* ______________________________inbetween line _______________________________________________________________________ */
+
+  /* SECOND SECTION CSS */
+
+  .sectionOnTheRight {
+      color: white;
+    background-color: rgb(59, 17, 245);
+    width: 532px;
+      height: 700px;
+    position: relative;
+    left: 972px;
+    bottom: 720px;
+}
+
+
+#calendarPicture {
+height: 50px;
+border-radius: 50%;
+border-style: solid;
+border-width: 1px;
+border-color: black;
+}
+
+
+#emailPicture{
+    height:50px;
+    border-radius: 50%;
+    border-style: solid;
+border-width: 1px;
+border-color: black;
+}
+
+
+
+#phonePicture{
+    height: 50px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+
+#adressPicture{
+    height: 50px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+
+
+#ageWord{
+font-weight:bolder;
+position: relative;
+left: 75px;
+bottom: 55px;
+}
+
+
+#emailWord{
+    font-weight:bolder;
+position: relative;
+left: 75px;
+bottom: 55px;
+
+}
+
+
+#phoneWord{
+    font-weight:bolder;
+    position: relative;
+    left: 75px;
+    bottom: 55px;
+}
+
+
+#adressWord{
+    font-weight:bolder;
+    position: relative;
+    left: 75px;
+    bottom: 55px;
+}
+
+
+
+
+   /* END OF SECOND SECTION CSS */
+
+
+/* ______________________________inbetween line _______________________________________________________________________ */
+
+
+
+
+
+  /* END OF SECOND DIV CSS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* ______________________________inbetween line _______________________________________________________________________ */
